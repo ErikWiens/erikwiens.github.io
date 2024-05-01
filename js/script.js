@@ -1,3 +1,8 @@
+/**
+ * WEBSITE: https://furioustheme.com
+ * GITHUB: https://github.com/furioustheme/
+ */
+
 // on ready state
 $(document).ready(function () {
   "use strict";
